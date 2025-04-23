@@ -1,0 +1,1 @@
+readme fle for typescript
